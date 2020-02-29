@@ -1,2 +1,0 @@
-# cool
-Created with CodeSandbox
